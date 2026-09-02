@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-7.841799, 40.6413295], [-7.8417023, 40.6411933], [-7.8416307, 40.6410924], [-7.8416149, 40.6410701], [-7.841442, 40.6408369], [-7.8414271, 40.6408163], [-7.8404018, 40.6394015]]}, "properties": {"highway": "primary", "lanes": "2", "oneway": "no", "ref": "EN16"}}]}

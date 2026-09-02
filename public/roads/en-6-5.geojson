@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-9.3298057, 38.6959225], [-9.3298068, 38.6959473]]}, "properties": {"highway": "primary", "junction": "roundabout", "ref": "EN 6-5", "surface": "asphalt"}}]}

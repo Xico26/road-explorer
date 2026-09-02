@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-9.2027816, 38.7633401], [-9.2016813, 38.7614024]]}, "properties": {"highway": "trunk", "lanes": "3", "maxspeed": "70", "motorroad": "yes", "oneway": "yes", "ref": "IC16", "toll": "no"}}]}

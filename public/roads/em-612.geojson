@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-8.5326585, 41.1424518], [-8.5326685, 41.1426594], [-8.5326919, 41.1430975]]}, "properties": {"highway": "primary", "lanes": "1", "name": "Rua 25 de Abril", "oneway": "yes", "ref": "EM 612", "surface": "asphalt"}}]}

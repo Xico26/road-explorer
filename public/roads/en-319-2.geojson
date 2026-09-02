@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-8.4223176, 41.0757002], [-8.4222637, 41.0757377], [-8.4222369, 41.075765], [-8.4221993, 41.0758145]]}, "properties": {"highway": "primary", "name": "Avenida Jos\u00e9 Joaquim Ferreira", "oneway": "yes", "ref": "EN 319-2", "surface": "asphalt"}}]}

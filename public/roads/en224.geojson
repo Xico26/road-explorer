@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-8.2894283, 41.074196]}, "properties": {"direction": "forward", "distance": "2", "highway": "milestone", "ref": "EN224"}}]}

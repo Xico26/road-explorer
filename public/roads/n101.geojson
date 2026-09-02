@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-8.4275415, 41.5809097], [-8.4275696, 41.5809845], [-8.4276043, 41.5810698], [-8.4277384, 41.5813489]]}, "properties": {"highway": "primary", "name": "Avenida do C\u00e1vado", "oneway": "yes", "ref": "N101", "surface": "asphalt"}}]}
