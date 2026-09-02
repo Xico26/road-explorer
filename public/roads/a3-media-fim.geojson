@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-8.5384739, 41.2993805]}, "properties": {"direction": "backward", "ele": "4", "highway": "speed_camera", "maxspeed": "100", "ref": "A3 MEDIA FIM"}}]}
